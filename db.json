@@ -1,0 +1,46 @@
+{
+  "productos": [
+    {
+      "nombre": "Stormtrooper",
+      "precio": "60",
+      "imagen": "img/image 1.png",
+      "id": "1"
+    },
+    {
+      "nombre": "Game Boy Classic",
+      "precio": "60",
+      "imagen": "img/image 2.png",
+      "id": "2"
+    },
+    {
+      "nombre": "Stormtrooper",
+      "precio": "60",
+      "imagen": "img/image 1.png",
+      "id": "3"
+    },
+    {
+      "nombre": "Game Boy Classic",
+      "precio": "60",
+      "imagen": "img/image 2.png",
+      "id": "4"
+    },
+    {
+      "nombre": "Stormtrooper",
+      "precio": "60",
+      "imagen": "img/image 1.png",
+      "id": "5"
+    },
+    {
+      "nombre": "Game Boy Classic",
+      "precio": "60",
+      "imagen": "img/image 2.png",
+      "id": "6"
+    },
+    {
+      "id": "d43e",
+      "nombre": "wall-e",
+      "precio": "120.00",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/e/e6/WALL-E_%28character%29.jpg"
+    }
+  ]
+}
